@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+     <meta charset="utf-8" />
+    <meta name="Keywords" content="@(Linda.DAL.DalTb_Easo_Sys_set.ReturnCatchValue(9))" >
+	<meta name="Description" content="@(Linda.DAL.DalTb_Easo_Sys_set.ReturnCatchValue(10))" />
+    <meta name="alexaVerifyID" content="nyL7-mdkKREiKKDy6bRTb8V5wFk"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link href="/content/bootstrap-3.3.4-dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="/content/bootstrap-3.3.4-dist/css/bootstrap-theme.css" rel="stylesheet" />
+    <link href="/content/bootstrap-3.3.4-dist/css/sys.css" rel="stylesheet" />
+</head>
+<body>
+
+
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7">
+                    <div class="page-header  us_no_bt_br us_no_mtp us_no_mbm">
+                      <a href="http://www.yigeceo.com" class="thead"><h1 class="logofont"> papi电影厅 <small>●零灰色、不下载、手机随时看 新站新体验 </small></h1></a>  
+                    </div>
+                </div>
+                <div class="col-md-5">
+                     <img src="/content/images/wx.png" class="wximg" /> <div class="con">加站长微信：223344386，随时获得最新影讯 &nbsp; <br />营销交流互助QQ群：340465311 &nbsp;</div>
+                </div>               
+            </div>
+
+        </div>
+    </header>
+
+    <div class="container">
+        <nav class="navbar navbar-default">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://www.papivod.site/">Papi电影厅</a>
+            </div>
+           
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li class="@(Request.RawUrl.ToString().ToLower()=="/"?"active":"")""><a href="/">首页 <span class="sr-only">(current)</span></a></li>                    
+                    <li  class="@(Request.RawUrl.ToString().ToLower().IndexOf("/film")>-1?"active":"")""><a href="/film">最新电影</a></li>        
+                     <li  class="@(Request.RawUrl.ToString().ToLower().IndexOf("/tv")>-1?"active":"")""><a href="/tv">电视剧</a></li>               
+                    
+                    <li  class="@(Request.RawUrl.ToString().ToLower().IndexOf("/about")>-1?"active":"")""><a href="/about">关于papi电影厅</a></li>
+                </ul>
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="@(Request.RawUrl.ToString().ToLower().IndexOf("registecode")>-1?"active":"")"><a href="/registecode/" class="bold">软件获取注册码</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </nav>
+    </div>
+
+
+    @RenderBody()
+
+    <footer>
+        <div class="container">
+            <div class="page-header">
+                @Html.Raw( (Linda.DAL.DalTb_Easo_Sys_set.ReturnCatchValue(8)))
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="http://cdn.bootcss.com/jquery/1.11.2/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/content/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
+@RenderSection("js",false)

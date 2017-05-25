@@ -1,0 +1,12 @@
+E:\net\OCR\OCR 图片识别\ToText\Zhangjp.WeixinFir.DbCommon\bin\Release\Zhangjp.WeixinFir.DbCommon.dll
+E:\net\OCR\OCR 图片识别\ToText\Zhangjp.WeixinFir.DbCommon\bin\Release\Zhangjp.WeixinFir.DbCommon.pdb
+E:\net\OCR\OCR 图片识别\ToText\Zhangjp.WeixinFir.DbCommon\bin\Release\Common.dll
+E:\net\OCR\OCR 图片识别\ToText\Zhangjp.WeixinFir.DbCommon\bin\Release\Dapper.dll
+E:\net\OCR\OCR 图片识别\ToText\Zhangjp.WeixinFir.DbCommon\bin\Release\Common.pdb
+E:\net\OCR\OCR 图片识别\ToText\Zhangjp.WeixinFir.DbCommon\bin\Release\Dapper.pdb
+E:\net\OCR\OCR 图片识别\ToText\Zhangjp.WeixinFir.DbCommon\bin\Release\Dapper.xml
+E:\net\OCR\OCR 图片识别\ToText\Zhangjp.WeixinFir.DbCommon\obj\Release\Zhangjp.WeixinFir.DbCommon.csprojResolveAssemblyReference.cache
+E:\net\OCR\OCR 图片识别\ToText\Zhangjp.WeixinFir.DbCommon\obj\Release\Zhangjp.WeixinFir.DbCommon.dll
+E:\net\OCR\OCR 图片识别\ToText\Zhangjp.WeixinFir.DbCommon\obj\Release\Zhangjp.WeixinFir.DbCommon.pdb
+E:\net\OCR\OCR 图片识别\ToText\Zhangjp.WeixinFir.DbCommon\bin\Release\Linda.Entity.dll
+E:\net\OCR\OCR 图片识别\ToText\Zhangjp.WeixinFir.DbCommon\bin\Release\Linda.Entity.pdb

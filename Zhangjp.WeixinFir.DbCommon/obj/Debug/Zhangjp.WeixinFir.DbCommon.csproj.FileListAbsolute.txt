@@ -1,0 +1,12 @@
+F:\Datas\业余\papivod\Zhangjp.WeixinFir.DbCommon\bin\Debug\Zhangjp.WeixinFir.DbCommon.dll
+F:\Datas\业余\papivod\Zhangjp.WeixinFir.DbCommon\bin\Debug\Zhangjp.WeixinFir.DbCommon.pdb
+F:\Datas\业余\papivod\Zhangjp.WeixinFir.DbCommon\bin\Debug\Common.dll
+F:\Datas\业余\papivod\Zhangjp.WeixinFir.DbCommon\bin\Debug\Dapper.dll
+F:\Datas\业余\papivod\Zhangjp.WeixinFir.DbCommon\bin\Debug\Linda.Entity.dll
+F:\Datas\业余\papivod\Zhangjp.WeixinFir.DbCommon\bin\Debug\Common.pdb
+F:\Datas\业余\papivod\Zhangjp.WeixinFir.DbCommon\bin\Debug\Linda.Entity.pdb
+F:\Datas\业余\papivod\Zhangjp.WeixinFir.DbCommon\bin\Debug\Dapper.pdb
+F:\Datas\业余\papivod\Zhangjp.WeixinFir.DbCommon\bin\Debug\Dapper.xml
+F:\Datas\业余\papivod\Zhangjp.WeixinFir.DbCommon\obj\Debug\Zhangjp.WeixinFir.DbCommon.csprojResolveAssemblyReference.cache
+F:\Datas\业余\papivod\Zhangjp.WeixinFir.DbCommon\obj\Debug\Zhangjp.WeixinFir.DbCommon.dll
+F:\Datas\业余\papivod\Zhangjp.WeixinFir.DbCommon\obj\Debug\Zhangjp.WeixinFir.DbCommon.pdb

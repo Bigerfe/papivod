@@ -1,0 +1,7 @@
+E:\net\OCR\OCR 图片识别\ToText\Common.Uitls.Lib\bin\Release\Common.Uitls.Lib.dll
+E:\net\OCR\OCR 图片识别\ToText\Common.Uitls.Lib\bin\Release\Common.Uitls.Lib.pdb
+E:\net\OCR\OCR 图片识别\ToText\Common.Uitls.Lib\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\net\OCR\OCR 图片识别\ToText\Common.Uitls.Lib\obj\Release\Common.Uitls.Lib.dll
+E:\net\OCR\OCR 图片识别\ToText\Common.Uitls.Lib\obj\Release\Common.Uitls.Lib.pdb
+E:\net\OCR\OCR 图片识别\ToText\Common.Uitls.Lib\bin\Release\NPOI.dll
+E:\net\OCR\OCR 图片识别\ToText\Common.Uitls.Lib\bin\Release\NPOI.xml

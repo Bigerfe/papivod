@@ -1,0 +1,267 @@
+﻿*
+{
+	font-size: 12px;
+	font-family: Arial,宋体;
+	margin: 0px;
+}
+
+BODY
+{
+	margin: 0px;
+	font-family: Arial,宋体;
+}
+
+A:link
+{
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+}
+A:visited
+{
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+}
+A:active
+{
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+}
+A:hover
+{
+	font-size: 12px;
+	color: #ff0000;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+input
+{
+	border: solid 1px #ccc;
+}
+
+textarea
+{
+	border-right: #cccccc 1px solid;
+	border-top: #cccccc 1px solid;
+	font-size: 9pt;
+	border-left: #cccccc 1px solid;
+	border-bottom: #cccccc 1px solid;
+}
+TABLE.Menu
+{
+	border-right: #808080 0px solid;
+	padding-right: 0px;
+	border-top: #808080 0px solid;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	border-left: #808080 0px solid;
+	width: 176px;
+	padding-top: 0px;
+	border-bottom: #808080 0px solid;
+	background-color: #ffffff;
+}
+TABLE.Menu TH
+{
+	font-size: 12px;
+	cursor: hand;
+	color: #000000;
+	height: 24px;
+	background-color: #e0e0e0;
+}
+TABLE.Menu TD
+{
+	padding-left: 10px;
+	font-size: 12px;
+	line-height: 20px;
+}
+TABLE.Menu TD A:link
+{
+	color: #333333;
+	text-decoration: underline;
+}
+TABLE.Menu TD A:visited
+{
+	color: #333333;
+	text-decoration: underline;
+}
+TABLE.Menu TD A:hover
+{
+	color: #ff0000;
+	text-decoration: underline;
+}
+TABLE.Menu TD TABLE TD
+{
+	background: url(../imgs/item3.gif) no-repeat left 50%;
+}
+TABLE.Menu TD TABLE TD A
+{
+	left: 20px;
+	position: relative;
+	text-decoration: none;
+}
+TABLE.Menu TD TABLE TD A:link
+{
+	text-decoration: none;
+}
+TABLE.Menu TD TABLE TD A:hover
+{
+	text-decoration: none;
+}
+TABLE.Menu TD TABLE TD A:visited
+{
+	text-decoration: none;
+}
+TABLE.Menu TD TABLE TD A:active
+{
+	text-decoration: none;
+}
+table.tj
+{
+	border: solid 1px #cccccc;
+	padding-right: 4px;
+	margin-left: 12px;
+	width: 97%;
+	border-collapse: collapse;
+	border: none;
+}
+
+
+table.tj th
+{
+	font-size: 12px;
+	color: #0000a0;
+	height: 28px;
+	background-color: #f1f1f1;
+	border: solid 1px #f1f1f1;
+	letter-spacing:2px;
+}
+table.tj th input
+{
+	border-style:none;
+	}
+table.tj td
+{
+	padding-left: 5px;
+	font-size: 12px;
+	line-height: 23px;
+	border: solid 1px #f1f1f1;
+} 
+
+
+table.tj td span input
+{
+	border-style:none; 
+}
+
+table.tj td span label
+{
+	padding-right:12px;
+}
+
+
+
+.gridrow
+{
+	padding-bottom: 12px;
+	padding-top: 12px;
+}
+
+.td_secondtitle
+{
+	font-weight: bold;
+	font-size: 14px;
+	color: #000;
+	background-color: #f1f1f1;
+}
+
+.td_secondtitle span
+{
+	color: #000000;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+
+ 
+
+
+A.pre:link {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: left center; PADDING-LEFT: 28px; FONT-SIZE: 12px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND: url(../imgs/pre.gif); PADDING-BOTTOM: 0px; WIDTH: 60px; COLOR: #000000; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px; TEXT-DECORATION: none
+}
+A.pre:visited {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: left center; PADDING-LEFT: 28px; FONT-SIZE: 12px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND: url(../imgs/pre.gif); PADDING-BOTTOM: 0px; WIDTH: 60px; COLOR: #000000; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px; TEXT-DECORATION: none
+}
+A.pre:hover {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: left center; PADDING-LEFT: 28px; FONT-SIZE: 12px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND: url(../imgs/pre_on.gif); PADDING-BOTTOM: 0px; WIDTH: 60px; COLOR: #ff0000; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px; TEXT-DECORATION: none
+}
+A.pre:active {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: left center; PADDING-LEFT: 28px; FONT-SIZE: 12px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND: url(../imgs/pre.gif); PADDING-BOTTOM: 0px; WIDTH: 60px; COLOR: #000000; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px; TEXT-DECORATION: none
+}
+A.ne:link {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: left center; PADDING-LEFT: 28px; FONT-SIZE: 12px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND: url(../imgs/ne.gif); PADDING-BOTTOM: 0px; WIDTH: 60px; COLOR: #000000; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px; TEXT-DECORATION: none
+}
+A.ne:visited {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: left center; PADDING-LEFT: 28px; FONT-SIZE: 12px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND: url(../imgs/ne.gif); PADDING-BOTTOM: 0px; WIDTH: 60px; COLOR: #000000; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px; TEXT-DECORATION: none
+}
+A.ne:hover {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: left center; PADDING-LEFT: 28px; FONT-SIZE: 12px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND: url(../imgs/ne_on.gif); PADDING-BOTTOM: 0px; WIDTH: 60px; COLOR: #ff0000; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px; TEXT-DECORATION: none
+}
+A.ne:active {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: left center; PADDING-LEFT: 28px; FONT-SIZE: 12px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND: url(../imgs/ne.gif); PADDING-BOTTOM: 0px; WIDTH: 60px; COLOR: #000000; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px; TEXT-DECORATION: none
+}
+A.flush:link {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: left center; PADDING-LEFT: 28px; FONT-SIZE: 12px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND: url(../imgs/flush.gif); PADDING-BOTTOM: 0px; WIDTH: 60px; COLOR: #000000; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px; TEXT-DECORATION: none
+}
+A.flush:visited {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: left center; PADDING-LEFT: 28px; FONT-SIZE: 12px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND: url(../imgs/flush.gif); PADDING-BOTTOM: 0px; WIDTH: 60px; COLOR: #000000; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px; TEXT-DECORATION: none
+}
+A.flush:hover {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: left center; PADDING-LEFT: 28px; FONT-SIZE: 12px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND: url(../imgs/flush_on.gif); PADDING-BOTTOM: 0px; WIDTH: 60px; COLOR: #ff0000; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px; TEXT-DECORATION: none
+}
+A.flush:active {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: left center; PADDING-LEFT: 28px; FONT-SIZE: 12px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND: url(../imgs/flush.gif); PADDING-BOTTOM: 0px; WIDTH: 60px; COLOR: #000000; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px; TEXT-DECORATION: none
+}
+A.logout:link {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: left center; PADDING-LEFT: 28px; FONT-SIZE: 12px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND: url(../imgs/logout.gif); PADDING-BOTTOM: 0px; WIDTH: 60px; COLOR: #000000; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px; TEXT-DECORATION: none
+}
+A.logout:visited {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: left center; PADDING-LEFT: 28px; FONT-SIZE: 12px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND: url(../imgs/logout.gif); PADDING-BOTTOM: 0px; WIDTH: 60px; COLOR: #000000; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px; TEXT-DECORATION: none
+}
+A.logout:hover {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: left center; PADDING-LEFT: 28px; FONT-SIZE: 12px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND: url(../imgs/logout_on.gif); PADDING-BOTTOM: 0px; WIDTH: 60px; COLOR: #ff0000; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px; TEXT-DECORATION: none
+}
+A.logout:active {
+	PADDING-RIGHT: 5px; BACKGROUND-POSITION: left center; PADDING-LEFT: 28px; FONT-SIZE: 12px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND: url(../imgs/logout.gif); PADDING-BOTTOM: 0px; WIDTH: 60px; COLOR: #000000; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 23px; TEXT-DECORATION: none
+} 
+
+
+
+.daohang {
+	FONT-WEIGHT: bold; BACKGROUND-IMAGE: url(../imgs/topbg.gif); WIDTH: 100%; COLOR: #000000; TEXT-INDENT: 48px; LINE-HEIGHT: 28px; HEIGHT: 28px
+}
+
+TABLE.Menu TH {
+	FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../imgs/menu_bg2.gif); CURSOR: hand; COLOR: #000000; HEIGHT: 24px; BACKGROUND-COLOR: #e0e0e0
+}
+
+
+ .checkche
+ {
+	border-style:none;
+ }
+ .h35{ height:35px; overflow:hidden;}
+ .h50{ height:50px; overflow:hidden;}
+ .h80{ height:80px; }
+ 
+ .infoermsg
+ {
+	height:100px; border:solid 1px #ccc; line-height:100px; margin:auto; text-align:center; width:200px;
+	
+	font-size:14px; letter-spacing:2px;
+	
+	 margin-top:50px;
+	
+ }

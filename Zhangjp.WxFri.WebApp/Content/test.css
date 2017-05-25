@@ -1,0 +1,158 @@
+﻿body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+body, button, input, select, textarea {
+    font: 12px/1.5tahoma, arial, \5b8b\4f53;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 100%;
+}
+
+address, cite, dfn, em, var {
+    font-style: normal;
+}
+
+code, kbd, pre, samp {
+    font-family: couriernew, courier, monospace;
+}
+
+small {
+    font-size: 12px;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+sup {
+    vertical-align: text-top;
+}
+
+sub {
+    vertical-align: text-bottom;
+}
+
+legend {
+    color: #000;
+}
+
+fieldset, img {
+    border: 0;
+}
+
+button, input, select, textarea {
+    font-size: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.content1 {
+    width: 200px;
+    height: 200px;
+    margin-left: -100px;
+    margin-top: -100px;
+    position: absolute;
+    border: solid 1px #ccc;
+    left: 50%;
+    top: 50%;
+    text-align: left;
+
+     -moz-transform:rotate(45deg); /* Firefox */
+}
+
+@media screen and (min-device-width:1024px) {
+    .content1 {
+        background-color: red;
+    }
+}
+
+html {
+    /*-webkit-text-size-adjust: none;*/
+}
+
+@media screen and (min-device-width:650px) {
+    .content1 {
+        background-color: gray;
+    }
+}
+
+
+nav + div {
+    font-size: 18px;
+}
+
+ul > li {
+    list-style: none;
+    padding: 10px;
+    float: left;
+}
+
+nav li {
+    font-weight: bold;
+}
+
+.content {
+    width: 900px;
+    border: solid 1px #ccc;
+    margin: 0 auto;
+}
+
+
+.tabs li {
+    float: left;
+    border: solid 1px #ccc;
+}
+
+.tabs .current {
+    background-color: blue;
+}
+
+.cons {
+    display: block;
+    clear: both;
+}
+
+    .cons li {
+        display: none;
+    }
+
+.layout .c1 {
+    float: left;
+    height: 400px;
+    width: 200px;
+    border: solid 1px #ccc;
+}
+
+.layout .ric {
+    border: solid 1px #ccc;
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin-left: 20px;
+}
+
+    .layout .ric + div {
+        clear: left;
+    }
+
+div.arrow-up {
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    transform:rotate(45deg);
+   -moz-transform:rotate(45deg); /* Firefox */
+}

@@ -1,0 +1,15 @@
+E:\工作室\客户程序\Kehu1\Kehu1.SQL\obj\Debug\ResolveAssemblyReference.cache
+E:\工作室\客户程序\Kehu1\Kehu1.SQL\bin\Debug\Kehu1.SQL.dll
+E:\工作室\客户程序\Kehu1\Kehu1.SQL\bin\Debug\Kehu1.SQL.pdb
+E:\工作室\客户程序\Kehu1\Kehu1.SQL\obj\Debug\Kehu1.SQL.dll
+E:\工作室\客户程序\Kehu1\Kehu1.SQL\obj\Debug\Kehu1.SQL.pdb
+E:\工作室\客户2\程序\Kehu1\Kehu1.SQL\bin\Debug\Kehu1.SQL.dll
+E:\工作室\客户2\程序\Kehu1\Kehu1.SQL\bin\Debug\Kehu1.SQL.pdb
+E:\工作室\客户2\程序\Kehu1\Kehu1.SQL\obj\Debug\ResolveAssemblyReference.cache
+E:\工作室\客户2\程序\Kehu1\Kehu1.SQL\obj\Debug\Kehu1.SQL.dll
+E:\工作室\客户2\程序\Kehu1\Kehu1.SQL\obj\Debug\Kehu1.SQL.pdb
+E:\工作室\bjmredu\程序\Kehu1\Kehu1.SQL\bin\Debug\Kehu1.SQL.dll
+E:\工作室\bjmredu\程序\Kehu1\Kehu1.SQL\bin\Debug\Kehu1.SQL.pdb
+E:\工作室\bjmredu\程序\Kehu1\Kehu1.SQL\obj\Debug\ResolveAssemblyReference.cache
+E:\工作室\bjmredu\程序\Kehu1\Kehu1.SQL\obj\Debug\Kehu1.SQL.dll
+E:\工作室\bjmredu\程序\Kehu1\Kehu1.SQL\obj\Debug\Kehu1.SQL.pdb

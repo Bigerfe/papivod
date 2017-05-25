@@ -1,0 +1,12 @@
+E:\net\OCR\OCR 图片识别\ToText\Common.Uitls.Lib\bin\Debug\Common.Uitls.Lib.dll
+E:\net\OCR\OCR 图片识别\ToText\Common.Uitls.Lib\bin\Debug\Common.Uitls.Lib.pdb
+E:\net\OCR\OCR 图片识别\ToText\Common.Uitls.Lib\obj\Debug\Common.Uitls.Lib.dll
+E:\net\OCR\OCR 图片识别\ToText\Common.Uitls.Lib\obj\Debug\Common.Uitls.Lib.pdb
+E:\net\OCR\OCR 图片识别\ToText\Common.Uitls.Lib\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Datas\业余\papivod\Common.Uitls.Lib\bin\Debug\Common.Uitls.Lib.dll
+F:\Datas\业余\papivod\Common.Uitls.Lib\bin\Debug\Common.Uitls.Lib.pdb
+F:\Datas\业余\papivod\Common.Uitls.Lib\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Datas\业余\papivod\Common.Uitls.Lib\bin\Debug\NPOI.dll
+F:\Datas\业余\papivod\Common.Uitls.Lib\bin\Debug\NPOI.xml
+F:\Datas\业余\papivod\Common.Uitls.Lib\obj\Debug\Common.Uitls.Lib.dll
+F:\Datas\业余\papivod\Common.Uitls.Lib\obj\Debug\Common.Uitls.Lib.pdb

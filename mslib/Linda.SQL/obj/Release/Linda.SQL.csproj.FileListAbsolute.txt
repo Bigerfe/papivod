@@ -1,0 +1,4 @@
+E:\net\OCR\OCR 图片识别\ToText\mslib\Linda.SQL\bin\Release\Linda.SQL.dll
+E:\net\OCR\OCR 图片识别\ToText\mslib\Linda.SQL\bin\Release\Linda.SQL.pdb
+E:\net\OCR\OCR 图片识别\ToText\mslib\Linda.SQL\obj\Release\Linda.SQL.dll
+E:\net\OCR\OCR 图片识别\ToText\mslib\Linda.SQL\obj\Release\Linda.SQL.pdb

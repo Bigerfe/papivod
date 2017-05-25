@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E5EE4E47-30FC-4771-9080-6BAAFBF53BFC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Linda.Dal</RootNamespace>
+    <AssemblyName>Linda.Dal</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminDAL\AdminDal.cs" />
+    <Compile Include="AdminDAL\DalManager.cs" />
+    <Compile Include="Baoming\DalPbaoming.cs" />
+    <Compile Include="ConfigSys\DalTb_Easo_Sys_set.cs" />
+    <Compile Include="Iserver\AdminPage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Iserver\BaseCommon.cs" />
+    <Compile Include="Iserver\BasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Iserver\DalServer.cs" />
+    <Compile Include="Iserver\DoCache.cs" />
+    <Compile Include="Iserver\Global.cs" />
+    <Compile Include="Iserver\Sendrequest.cs" />
+    <Compile Include="Friendlink\DalTb_Easo_FriendLink.cs" />
+    <Compile Include="Iserver\NewPageEnd.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NewsDAL\DalGetZhaoi.cs" />
+    <Compile Include="NewsDAL\DalTb_Easo_NewClass.cs" />
+    <Compile Include="NewsDAL\DalTb_Easo_News.cs" />
+    <Compile Include="Portal\Portals.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TurnPic\DalTurnPic.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Linda.Common\Linda.Common.csproj">
+      <Project>{9D208AC3-1C73-4150-9939-80CD67D07CB5}</Project>
+      <Name>Linda.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Linda.Entity\Linda.Entity.csproj">
+      <Project>{8E9BA75C-24CA-4585-A0CC-22989A203B25}</Project>
+      <Name>Linda.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Linda.SQL\Linda.SQL.csproj">
+      <Project>{F6EAE4EE-60B1-4D1C-8CF0-39B12288C01F}</Project>
+      <Name>Linda.SQL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

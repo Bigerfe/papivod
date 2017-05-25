@@ -1,0 +1,41 @@
+﻿BODY {
+	 FONT-SIZE: 12px;
+}
+#dl_name {
+	MARGIN-TOP: 80px; FONT-WEIGHT: bolder; FONT-SIZE: 30px; MARGIN-LEFT: 180px; LETTER-SPACING: 2px
+}
+#bgimg {
+	MARGIN-TOP: 100px; BACKGROUND-IMAGE: url(../imgs/GLogin.gif);  WIDTH: 680px; HEIGHT: 280px
+}
+.text {
+	FONT-SIZE: 12px; COLOR: #666666
+}
+#idname {
+	LEFT: 305px; POSITION: relative; TOP: 130px
+}
+#idname1 {
+	LEFT: 355px; POSITION: relative; TOP: 110px
+}
+#idpsw {
+	LEFT: 305px; POSITION: relative; TOP: 125px
+}
+#idpsw1 {
+	LEFT: 355px; POSITION: relative; TOP: 105px
+}
+#idyz {
+	LEFT: 305px; POSITION: relative; TOP: 120px
+}
+#idyz1 {
+	LEFT: 355px; POSITION: relative; TOP: 100px
+}
+#idyz2 {
+	LEFT: 450px; POSITION: relative; TOP: 77px
+}
+#iddl {
+	LEFT: 555px; POSITION: relative; TOP: 30px
+}
+#idcopy {
+	FONT-WEIGHT: bolder; LEFT: 304px; LETTER-SPACING: 1px; POSITION: relative; TOP: 50px
+}
+
+

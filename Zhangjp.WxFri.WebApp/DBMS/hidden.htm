@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+    <title>hidden</title>
+    <style type="text/css">BODY {
+	MARGIN: 0px
+}
+</style>
+
+    <script language="javascript">
+var win = "on";
+function HideList()
+{
+	if (win == "on")
+	{		
+		win = "off";
+		eval("document.getElementById('arrow').className='hiddenr'");	
+		window.top.mainFrm.cols= "0,14,*"	
+	}
+	else
+	{	
+		eval("document.getElementById('arrow').className='hiddenl'");	
+		win = "on";
+		window.top.mainFrm.cols= "176,14,*"
+	}
+}
+
+    </script>
+
+    <script>
+strstyle="<link href='style/hidden.css' rel='stylesheet' type='text/css'> ";
+document.write(strstyle);
+</script>
+
+    <meta content="MSHTML 6.00.2800.1593" name="GENERATOR">
+</head>
+<body>
+    <table class="hiddentable" height="100%" cellspacing="0" cellpadding="0" border="0">
+        <tbody>
+            <tr>
+                <td class="hiddentop" width="13">
+                </td>
+            </tr>
+            <tr>
+                <td class="hiddenl" id="arrow" style="cursor: hand" onclick="HideList()" width="13">
+                </td>
+            </tr>
+            <tr>
+                <td class="hiddenbottom">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

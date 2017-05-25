@@ -1,0 +1,8 @@
+E:\net\项目\Linda\Linda.Entity\bin\Debug\Linda.Entity.dll
+E:\net\项目\Linda\Linda.Entity\bin\Debug\Linda.Entity.pdb
+E:\net\项目\Linda\Linda.Entity\obj\Debug\Linda.Entity.dll
+E:\net\项目\Linda\Linda.Entity\obj\Debug\Linda.Entity.pdb
+F:\Datas\业余\papivod\mslib\Linda.Entity\bin\Debug\Linda.Entity.dll
+F:\Datas\业余\papivod\mslib\Linda.Entity\bin\Debug\Linda.Entity.pdb
+F:\Datas\业余\papivod\mslib\Linda.Entity\obj\Debug\Linda.Entity.dll
+F:\Datas\业余\papivod\mslib\Linda.Entity\obj\Debug\Linda.Entity.pdb

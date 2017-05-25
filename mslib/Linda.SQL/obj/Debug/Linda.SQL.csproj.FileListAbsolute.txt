@@ -1,0 +1,8 @@
+E:\net\项目\Linda\Linda.SQL\bin\Debug\Linda.SQL.dll
+E:\net\项目\Linda\Linda.SQL\bin\Debug\Linda.SQL.pdb
+E:\net\项目\Linda\Linda.SQL\obj\Debug\Linda.SQL.dll
+E:\net\项目\Linda\Linda.SQL\obj\Debug\Linda.SQL.pdb
+F:\Datas\业余\papivod\mslib\Linda.SQL\bin\Debug\Linda.SQL.dll
+F:\Datas\业余\papivod\mslib\Linda.SQL\bin\Debug\Linda.SQL.pdb
+F:\Datas\业余\papivod\mslib\Linda.SQL\obj\Debug\Linda.SQL.dll
+F:\Datas\业余\papivod\mslib\Linda.SQL\obj\Debug\Linda.SQL.pdb

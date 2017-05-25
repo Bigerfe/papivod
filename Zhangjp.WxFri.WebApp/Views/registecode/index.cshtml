@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "一根草，原创营销软件站";
+    Layout = "~/Views/Shared/_Mylayout.cshtml";
+}
+
+<div class="container">
+
+    <div class="row mt30">
+        <div class="col-md-6 col-md-offset-3">
+            提示：机器码和校验码需要从软件上进行获取，打开软件后，点击”获取注册码“链接，将会跳转到此页面，然后点击“获取注册码”!
+        </div>
+    </div>
+
+    <div class="row mt30">
+        <div class="col-md-6 col-md-offset-3">
+            <form class="form-horizontal" method="post" action="@Url.Action("index")">
+                <div class="form-group">
+                    <label for="inputEmail3" class="col-sm-2 control-label">机器码：</label>
+                    <div class="col-sm-10">
+                        <input type="text" value="@ViewBag.CpuId" class="form-control" name="cpuid" placeholder="机器码自动获得">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="inputPassword3" class="col-sm-2 control-label">校验码：</label>
+                    <div class="col-sm-10">
+                        <input type="text" value="@ViewBag.ValidCode" class="form-control" name="validcode" placeholder="校验码自动获得">
+                        <input type="hidden" name="getcode" value="1" />
+                    </div>
+                </div>
+              
+                <div class="form-group">
+                    <div class="col-sm-offset-2 col-sm-10">
+                        <button type="submit" class="btn btn-default">获取注册码</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+        @if(!string.IsNullOrEmpty(ViewBag.RegCode)){
+    <div class="row mt30">
+        <div class="col-md-9 col-md-offset-2">
+
+           您的注册码：<strong>@ViewBag.RegCode</strong> 
+
+        </div>
+    </div>
+    }
+</div>
+ 

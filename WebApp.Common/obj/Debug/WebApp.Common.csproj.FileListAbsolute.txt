@@ -1,0 +1,5 @@
+F:\Datas\业余\papivod\WebApp.Common\bin\Debug\WebApp.Common.dll
+F:\Datas\业余\papivod\WebApp.Common\bin\Debug\WebApp.Common.pdb
+F:\Datas\业余\papivod\WebApp.Common\obj\Debug\WebApp.Common.dll
+F:\Datas\业余\papivod\WebApp.Common\obj\Debug\WebApp.Common.pdb
+F:\Datas\业余\papivod\WebApp.Common\obj\Debug\WebApp.Common.csprojResolveAssemblyReference.cache

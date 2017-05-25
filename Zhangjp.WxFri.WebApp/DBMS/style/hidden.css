@@ -1,0 +1,7 @@
+body{margin:0;padding:0;}
+
+.hiddentable{background:url(../imgs/hiddensbg.gif) repeat-y; width:14px;}
+.hiddentop{background:url(../imgs/tops.gif) repeat-y; height:6px;}
+.hiddenl{background:url(../imgs/arrow-l.gif) no-repeat left center;}
+.hiddenr{background:url(../imgs/arrow-r.gif) no-repeat left center;}
+.hiddenbottom{background:url(../imgs/bottoms.gif) repeat-y; height:9px;}

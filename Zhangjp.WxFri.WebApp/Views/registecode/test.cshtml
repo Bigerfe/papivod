@@ -1,0 +1,223 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width;inital-scale=1.0;"
+    <title>复习</title>
+    <link href="~/Content/test.css" type="text/css" rel="stylesheet"  media="screen and (max-width:480px)" />
+    <style>
+        @@import url("/Content/test.css") screen, print;
+    </style>
+    <!--[if IE 9]>
+   <h1>您当前使用的浏览器是ie 9</h1>
+    <![endif]-->
+    <!--if lte IE 8>
+        ie8以下版本  
+        <![endif]-->
+    <script src="~/Scripts/jquery-1.7.1.min.js"></script>
+</head>
+<body>
+    <div>
+        hello，你好
+    </div>
+
+    <header>
+        <div>子选择器与后代选择器的区别：子选择器是应用于直接子元素，后代选择器是包含子元素，且不限制层级 他所有下面的元素都会受影响</div>
+        <nav>
+            <ul>
+                <li>首页</li>
+                <li>关于我们</li>
+                <li>
+                    <ul>
+                        <li>留言</li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>     
+    </header>
+    <section>
+         <div class="content">
+
+       HTML5 现在已经不是 SGML 的子集，主要是关于图像，位置，存储，地理定位等功能的增加
+
+             <input type="text" placeholder="fadsfadsf"  required="required"/>
+    </div>
+    <div class="content1" id="cont1">
+        
+        不建议使用通配符进行样式初始化，最好使用元素组初始化
+        <blockquote>文字块儿</blockquote>
+    </div>
+
+    </section>
+
+    <div class="tabs">
+        <ul><li class="current">选项卡1</li><li>选项卡2</li><li>选项卡3</li><li>选项卡4</li><li>选项卡5</li><li>选项卡6</li></ul>
+    </div>
+    <div class="cons">
+       <ul><li style="display:block;">内容1</li><li>内容2</li><li>内容3</li><li>内容4</li><li>内容5</li><li>内容6</li></ul>
+    </div>
+
+    <section class="layout">
+        <div class="c1"></div>
+        <div class="c1"></div>
+       <div class="ric"></div>
+         <div class="ric"></div>
+
+    </section>
+
+    <div>
+        <div class="arrow-up">三角</div>
+    </div>
+
+    <ul id="testul">
+
+        <li>菜单1</li>
+         <li>菜单2</li>
+         <li>菜单3</li>
+         <li>菜单4</li>
+    </ul>
+   
+</body>
+</html>
+<script> 
+    function Aaron() { 
+        alert("hello"); 
+    }; 
+    Aaron(); //hello 
+</script> 
+ 
+//第二段代码 
+<script> 
+    function Aaron() { 
+        alert("world"); 
+    }; 
+    Aaron(); //world 
+</script> 
+<script type="text/javascript">
+
+
+    function add(a, b) {
+        alert(a + b);
+    }
+    function sub(a, b) {
+        alert(a - b);
+    }
+
+   // add.apply(sub, [3, 1]);
+
+    //////////////////////////////////////
+    //function Animal(name) {
+    //    this.name = name;
+    //    this.showName = function () {
+    //        alert(this.name);
+    //    };
+    //};
+
+    //function Cat(name) {
+    //    this.superClass = Animal;
+    //    this.superClass(name);
+    //    delete superClass;
+    //}
+
+    //var cat = new Cat("Black Cat");
+
+    //cat.showName();
+
+    //////////////////////////////////////////
+   
+    ////call apply
+
+    function Person(name,age)
+    {
+        this.name ='你好:'+ name;
+        this.age = age;        
+
+        this.showName = function () {
+
+            alert(this.name);
+        }
+
+        alert('我就这么被无辜的执行了，我的法术都给别人了');
+    }
+
+    function Cat(name, age) {
+        this.name ='你大爷'+ name;
+        Person.call(this, name, age); // 实现继承 
+
+    }
+
+    var c =new Cat('猫', 100);
+    
+    alert(c.age);
+
+
+
+
+
+
+
+
+    "use strict";
+
+    document.onmousemove = function (evt) {
+
+        evt = window.event || evt;
+
+       // document.getElementById("cont1").innerHTML = "X="+evt.pageX+" Y="+evt.pageY;
+    };
+
+    (function () {
+        $(".tabs li").each(function (index, ele) {            
+            ele.setindex = index;
+            $(ele).click(function () {               
+                $(".tabs li").removeClass("current");
+                $(this).addClass("current");
+                $(".cons li").hide();
+                $(".cons li").eq(this.setindex).show();
+            });
+        });
+
+
+        var ttt = document.body.getElementsByTagName("div");
+     
+
+        var testnav = document.getElementById("testul");
+        var obj = testnav.cloneNode(false);
+       
+        var lis = testnav.getElementsByTagName("li");
+        var testli = document.createElement("li");
+        testli.innerHTML = "测试1";
+        testnav.appendChild(testli);
+       
+        //testnav.addEventListener("click", function (e) {
+
+        //    e = window.event || e;
+        //    var target = e.target || e.srcElement;
+
+        //    for (var i = 0; i < lis.length; i++)
+        //    {
+        //        if (lis[i] === target)
+        //        {
+        //            alert("索引是:" + i);
+        //            break;
+        //        }
+        //    }
+            
+            
+        //}, false);
+        for (var i = 0; i < lis.length; i++)
+        {
+            lis[i].onclick = function (num) {
+                return function () {
+                    alert(num);
+                }
+            }(i);
+        }
+    })();
+
+</script>

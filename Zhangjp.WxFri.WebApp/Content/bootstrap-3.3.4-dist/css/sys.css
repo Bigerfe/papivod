@@ -1,0 +1,156 @@
+﻿body {
+    /*background:url(http://www.nanerguo.com/zb_users/theme/A_bingo/style/default/f-bg.gif) left center repeat;*/
+    /*background-color:  #ccc ;*/
+}
+
+header .con {
+    color: #999;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    float: right;
+    text-align: right;
+    margin-top: 30px;
+}
+
+.thead {
+    text-decoration: none;
+}
+
+a.thead:hover {
+    text-decoration: none;
+}
+
+header .wximg {
+    margin-top: 10px;
+    width: 80px;
+    margin-bottom: 10px;
+    float: right;
+}
+
+.us_no_bt_br {
+    border-bottom: none;
+}
+
+.us_no_mtp {
+    margin-top: 0px;
+}
+
+.us_no_mbm {
+    margin-bottom: 0px;
+}
+
+.mt30 {
+    margin-top: 30px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.w980 {
+    width: 980px;
+}
+
+.bggray {
+    background-color: #ccc;
+}
+
+.bordergray {
+    border: solid 1px #f1f1f1;
+}
+
+.myrow {
+    background-color: #fff;
+    text-align: left;
+    padding-top: 14px;
+    padding-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 15px;
+}
+    .myrow .block {
+    width:48px; height:48px; border:solid 1px #ccc; border-radius:5px;
+    background-color:#fff; 
+    }
+    .myrow .block span { 
+        display:block;  text-align:center;
+    }
+      .myrow .block .month {border-radius:5px 5px 0 0 ;
+       height:20px;  line-height:20px; background-color:#f0f0f0;
+    }
+        .myrow .block .day {
+       height:28px; line-height:28px;
+    }
+
+    .myrow .title {
+        margin-bottom: 5px;
+        font-weight: bold;
+    }
+
+    .myrow .count {
+        color: #ccc;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+.mycol {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.logofont {
+    color: #f00;
+    font-weight: 600;
+}
+
+    .logofont small {
+        color: #666;
+        font-weight: bold;
+    }
+
+footer .page-header {
+    padding-top: 20px;
+    border-top: solid 1px #f0f0f0;
+    background-color: #fff;
+    border-bottom: none;
+    text-align: center;
+    color: #808080;
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+
+    footer .page-header p {
+        margin: 0px;
+    }
+
+.wrapcontent {
+    margin-bottom: 20px;
+}
+
+    .wrapcontent p {
+       text-indent:2em;font-size:14px; letter-spacing:1px;
+    }
+
+    .wrapcontent .newcontent {
+        padding: 15px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 10px;
+        margin-right: 10px; line-height:25px; 
+    }
+
+    .wrapcontent .share {
+        float: right;
+        margin-top: -20px;
+    }
+
+.newendbr {
+    border: solid 1px #f0f0f0;
+    border-radius: 5px;
+}
+
+.dl_foot_powerby {
+    display: none;
+}

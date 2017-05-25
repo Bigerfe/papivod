@@ -1,0 +1,5 @@
+E:\net\OCR\OCR 图片识别\ToText\mslib\Linda.Common\bin\Release\Common.dll
+E:\net\OCR\OCR 图片识别\ToText\mslib\Linda.Common\bin\Release\Common.pdb
+E:\net\OCR\OCR 图片识别\ToText\mslib\Linda.Common\obj\Release\Common.dll
+E:\net\OCR\OCR 图片识别\ToText\mslib\Linda.Common\obj\Release\Common.pdb
+E:\net\OCR\OCR 图片识别\ToText\mslib\Linda.Common\obj\Release\Linda.Common.csprojResolveAssemblyReference.cache

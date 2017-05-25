@@ -1,0 +1,17 @@
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\bin\Debug\UberPig_Register.Wapp.exe
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\bin\Debug\UberPig_Register.Wapp.pdb
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\obj\Debug\UberPig_Register.Wapp.csprojResolveAssemblyReference.cache
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\obj\Debug\UberPig_Register.Wapp.Form1.resources
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\obj\Debug\UberPig_Register.Wapp.Properties.Resources.resources
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\obj\Debug\UberPig_Register.Wapp.csproj.GenerateResource.Cache
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\obj\Debug\UberPig_Register.Wapp.exe
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\obj\Debug\UberPig_Register.Wapp.pdb
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\bin\Debug\UberPig_Register.Wapp.exe.config
+F:\Datas\业余\papivod\UberPig_Register.Wapp\bin\Debug\UberPig_Register.Wapp.exe.config
+F:\Datas\业余\papivod\UberPig_Register.Wapp\bin\Debug\UberPig_Register.Wapp.exe
+F:\Datas\业余\papivod\UberPig_Register.Wapp\bin\Debug\UberPig_Register.Wapp.pdb
+F:\Datas\业余\papivod\UberPig_Register.Wapp\obj\Debug\UberPig_Register.Wapp.Form1.resources
+F:\Datas\业余\papivod\UberPig_Register.Wapp\obj\Debug\UberPig_Register.Wapp.Properties.Resources.resources
+F:\Datas\业余\papivod\UberPig_Register.Wapp\obj\Debug\UberPig_Register.Wapp.csproj.GenerateResource.Cache
+F:\Datas\业余\papivod\UberPig_Register.Wapp\obj\Debug\UberPig_Register.Wapp.exe
+F:\Datas\业余\papivod\UberPig_Register.Wapp\obj\Debug\UberPig_Register.Wapp.pdb

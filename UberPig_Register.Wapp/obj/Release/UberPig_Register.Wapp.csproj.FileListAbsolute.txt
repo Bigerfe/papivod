@@ -1,0 +1,9 @@
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\bin\Release\UberPig_Register.Wapp.exe.config
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\bin\Release\UberPig_Register.Wapp.exe
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\bin\Release\UberPig_Register.Wapp.pdb
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\obj\Release\UberPig_Register.Wapp.csprojResolveAssemblyReference.cache
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\obj\Release\UberPig_Register.Wapp.Form1.resources
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\obj\Release\UberPig_Register.Wapp.Properties.Resources.resources
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\obj\Release\UberPig_Register.Wapp.csproj.GenerateResource.Cache
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\obj\Release\UberPig_Register.Wapp.exe
+E:\net\OCR\OCR 图片识别\ToText\UberPig_Register.Wapp\obj\Release\UberPig_Register.Wapp.pdb

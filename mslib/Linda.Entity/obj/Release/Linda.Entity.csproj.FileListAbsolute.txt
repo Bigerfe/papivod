@@ -1,0 +1,5 @@
+E:\net\OCR\OCR 图片识别\ToText\mslib\Linda.Entity\bin\Release\Linda.Entity.dll
+E:\net\OCR\OCR 图片识别\ToText\mslib\Linda.Entity\bin\Release\Linda.Entity.pdb
+E:\net\OCR\OCR 图片识别\ToText\mslib\Linda.Entity\obj\Release\Linda.Entity.dll
+E:\net\OCR\OCR 图片识别\ToText\mslib\Linda.Entity\obj\Release\Linda.Entity.pdb
+E:\net\OCR\OCR 图片识别\ToText\mslib\Linda.Entity\obj\Release\Linda.Entity.csprojResolveAssemblyReference.cache

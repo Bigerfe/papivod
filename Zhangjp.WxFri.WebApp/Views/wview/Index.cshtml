@@ -1,0 +1,46 @@
+﻿@using Linda.Entity
+@{
+    ViewBag.Title =(Linda.DAL.DalTb_Easo_Sys_set.ReturnCatchValue(3));
+    Layout = "~/Views/Shared/_Mylayout.cshtml";
+}
+
+
+<div class="container">
+
+    <div class="row">
+
+        <div class="col-md-8">
+
+            @{
+             
+                    IList<Tb_Easo_News> newdata =  ViewBag.News as  IList<Tb_Easo_News> ;
+                    foreach (var item in newdata)
+                    {
+                           <div class="row bordergray myrow">  
+
+                <div class="col-md-3 col-sm-2 col-xs-3"><img class="img-responsive" width="157" height="158" src="@item.Downfile" /></div>
+                <div class="col-md-9 col-sm-10 col-xs-9">
+                    <div class="title"><a href="/wview/shownews/@item.ID">@item.Title</a></div>
+                    <div class="count">作者: 风口的猪 | 分类: @item.className | 评论：<em id="comment_count">100</em>人 | 浏览:@(item.viewcount+item.realviewcount) | 时间:@(item.Addtime.Value.ToString("yyyy-MM-dd"))</div>
+                    <div class="con">@item.Label</div>
+                   </div>
+
+            </div>
+                    }
+            } 
+        
+           
+        </div>
+        <div class="col-md-4">
+
+             <div class="row bordergray myrow">  
+
+                <div class="col-md-12">敬请期待...</div> 
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

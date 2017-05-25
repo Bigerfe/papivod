@@ -1,0 +1,15 @@
+E:\我们的项目\林老师\www\Linda\Linda.Entity\bin\Debug\Linda.Entity.dll
+E:\我们的项目\林老师\www\Linda\Linda.Entity\bin\Debug\Linda.Entity.pdb
+E:\我们的项目\林老师\www\Linda\Linda.Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\我们的项目\林老师\www\Linda\Linda.Entity\obj\Debug\Linda.Entity.dll
+E:\我们的项目\林老师\www\Linda\Linda.Entity\obj\Debug\Linda.Entity.pdb
+E:\工作室\我们的项目\林老师\www\Linda\Linda.Entity\bin\Debug\Linda.Entity.dll
+E:\工作室\我们的项目\林老师\www\Linda\Linda.Entity\bin\Debug\Linda.Entity.pdb
+E:\工作室\我们的项目\林老师\www\Linda\Linda.Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\工作室\我们的项目\林老师\www\Linda\Linda.Entity\obj\Debug\Linda.Entity.dll
+E:\工作室\我们的项目\林老师\www\Linda\Linda.Entity\obj\Debug\Linda.Entity.pdb
+E:\工作室\我们的项目\林老师\林网站2.0\Linda\Linda.Entity\bin\Debug\Linda.Entity.dll
+E:\工作室\我们的项目\林老师\林网站2.0\Linda\Linda.Entity\bin\Debug\Linda.Entity.pdb
+E:\工作室\我们的项目\林老师\林网站2.0\Linda\Linda.Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\工作室\我们的项目\林老师\林网站2.0\Linda\Linda.Entity\obj\Debug\Linda.Entity.dll
+E:\工作室\我们的项目\林老师\林网站2.0\Linda\Linda.Entity\obj\Debug\Linda.Entity.pdb

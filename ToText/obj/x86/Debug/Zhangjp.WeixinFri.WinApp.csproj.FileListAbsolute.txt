@@ -1,0 +1,14 @@
+F:\Datas\业余\papivod\ToText\bin\Debug\YigeCeo.WeiFerTools.WinApp.exe.config
+F:\Datas\业余\papivod\ToText\obj\x86\Debug\Zhangjp.WeixinFri.WinApp.csproj.ResolveComReference.cache
+F:\Datas\业余\papivod\ToText\obj\x86\Debug\Zhangjp.WeixinFri.WinApp.csprojResolveAssemblyReference.cache
+F:\Datas\业余\papivod\ToText\obj\x86\Debug\ToText.Form1.resources
+F:\Datas\业余\papivod\ToText\obj\x86\Debug\ToText.Form2.resources
+F:\Datas\业余\papivod\ToText\obj\x86\Debug\ToText.Form_AreaTel.resources
+F:\Datas\业余\papivod\ToText\obj\x86\Debug\ToText.Form_ExtendData.resources
+F:\Datas\业余\papivod\ToText\obj\x86\Debug\ToText.Form_Register.resources
+F:\Datas\业余\papivod\ToText\obj\x86\Debug\ToText.Form_SearchPhone.resources
+F:\Datas\业余\papivod\ToText\obj\x86\Debug\ToText.Form_Start.resources
+F:\Datas\业余\papivod\ToText\obj\x86\Debug\ToText.Form_UserSearch.resources
+F:\Datas\业余\papivod\ToText\obj\x86\Debug\ToText.ImportToQQ.resources
+F:\Datas\业余\papivod\ToText\obj\x86\Debug\ToText.Properties.Resources.resources
+F:\Datas\业余\papivod\ToText\obj\x86\Debug\Zhangjp.WeixinFri.WinApp.csproj.GenerateResource.Cache

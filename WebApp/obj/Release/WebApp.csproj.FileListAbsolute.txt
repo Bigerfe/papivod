@@ -1,0 +1,7 @@
+E:\net\OCR\OCR 图片识别\ToText\WebApp\bin\WebApp.dll
+E:\net\OCR\OCR 图片识别\ToText\WebApp\bin\WebApp.pdb
+E:\net\OCR\OCR 图片识别\ToText\WebApp\bin\WebApp.Common.dll
+E:\net\OCR\OCR 图片识别\ToText\WebApp\bin\WebApp.Common.pdb
+E:\net\OCR\OCR 图片识别\ToText\WebApp\obj\Release\WebApp.csprojResolveAssemblyReference.cache
+E:\net\OCR\OCR 图片识别\ToText\WebApp\obj\Release\WebApp.dll
+E:\net\OCR\OCR 图片识别\ToText\WebApp\obj\Release\WebApp.pdb
